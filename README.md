@@ -6,3 +6,5 @@ List of items
 * Nails
 * Helmet
 * Hair
+* Printer
+* Vaper
